@@ -1,7 +1,7 @@
 import unittest
 from FirstReverse import FirstReverse
 
-class FirestReverseTest(unittest.TestCase):
+class FirstReverseTest(unittest.TestCase):
 
     def test_say_a_when_a(self):
         self.assertEqual(FirstReverse('a'), 'a')
