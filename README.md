@@ -10,4 +10,5 @@ Challenges from [CoderByte](https://www.coderbyte.com/):
   - [X] [Simple Adding](https://www.coderbyte.com/editor/guest:Simple%20Adding:Python)  
   - [X] [Letter Capitalize](https://www.coderbyte.com/editor/guest:Letter%20Capitalize:Python)  
   - [X] [Simple Simbols](https://www.coderbyte.com/editor/guest:Simple%20Symbols:Python)  
+  - [X] [Check Nums](https://www.coderbyte.com/editor/guest:Check%20Nums:Python)  
   
