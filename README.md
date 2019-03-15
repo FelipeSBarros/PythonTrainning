@@ -11,4 +11,6 @@ Challenges from [CoderByte](https://www.coderbyte.com/):
   - [X] [Letter Capitalize](https://www.coderbyte.com/editor/guest:Letter%20Capitalize:Python)  
   - [X] [Simple Simbols](https://www.coderbyte.com/editor/guest:Simple%20Symbols:Python)  
   - [X] [Check Nums](https://www.coderbyte.com/editor/guest:Check%20Nums:Python)  
+  - [ ] [Time Convert](https://www.coderbyte.com/editor/guest:Time%20Convert:Python)  
+  
   
